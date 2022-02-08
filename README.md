@@ -1,2 +1,2 @@
 # NoodleShopModdedSurvival
-Everything you need to play on the server.
+Everything you need to play on NSMS.
