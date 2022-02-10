@@ -5,51 +5,72 @@ About NSMS: NSMS is a modded server which uses Fabric. We aim to keep your Minec
 
 NoodleShopModdedSurvival.modded.fun
 
+## First time setup:
+
+1. Run Minecraft 1.18.1 at least once.
+   - After this step, make sure your Minecraft game and your launcher is closed.
+3. Download [Fabric](https://fabricmc.net/use/installer/) (click the big blue button) and run the installer. 
+4. Download the modpack `.zip` file.
+   - All mods listed below are included in the `.zip` file. There's no virus i promis :)
+   - Take note where you keep the `.zip` file. It's easiest to save it on your desktop.
+5. Press your `Win` key (or do `Ctrl + R`) and type in "%appdata%" without parenthesis. Press enter.
+6. Navigate to `.minecraft > mods` and unpack the `.zip` file there. 
+   - To do this, open the `.zip` and simply drag and drop the contents into the `mods` folder. 
+7. All set! Now open your launcher, make sure the Fabric loader is selected in the bottom-left corner, slap in our fancy server address, and yer done!
+   - Don't worry if you get a scawry pop up! Everything is working as intended. 
+
+Have any problems? Contact me (Nathan) in the Discord server!
+
+A complete list of mods can be found below. If you wish (and if you're a masochist), you can choose to find and download these mods individually by going to [CurseForge](https://www.curseforge.com/minecraft/mc-mods?filter-game-version=2020709689%3A7499&filter-sort=4).
+
 ```
 Vers. 1.0
 List of Mods:
 
 Prerequisites and APIs:
 - Fabric API (literally prereq. for most mods)
-- Fabric Kotlin (adorn)
-wow such a short list
+- Fabric Kotlin (Adorn)
+- Architectury (REI)
+- Malilib (Minihub)
+- Cloth config api (forgot this one but im pretty sure its for most mods)
+- ForgeConfigAPIPort (Easy Magic)
+- PuzzlesLib (Easy Magic)
 
 Server And Client Side:
+- Clean Cut (slice through grass n stuff)
 - Adorn (Furnature)
-- Oxidized (copper)
+- Oxidized (more uses for copper)
 - Vanilla Hammers
 - Emotecraft
-- Simple Voice Chat (lotsa research needs to be done!
-- Fabric Seasons (might be incompatible, made for vers. 1.18)
+- Simple Voice Chat 
+- Fabric Seasons
 - Universal Graves Mod (can run without client)
-- Charm (TBD)
-- Aether (TBD)
-- Some sorta biome mod maybe (TBD)
-- I REALLY WANNA TRY IMMERSIVE PORTALS BUT WE'LL SEE IF FRAMES ARE SHAT ON!!!! (tbd)
+- Easy Magic
 
 Client Side Reccomended (technically optional):
 - Mod Menu (literally a nessesity for mod config and orginization)
 - Sodium (optifine but cooler)
 - Controlling (easier keybinds)
 - Mouse Tweaks
-- Clean Cut (slice through grass n shit)
-- Skin Layers 3D (makes 2nd layer 3d) (THIS BAD BOY IS INCOMPATIBLE WITH EMOTE CRAFT!)
 - REI (just like JEI)
 - Not enough animations
-- Effective
+- Effective (just water effects lol)
 - Minihud (for the average f3 enjoyers)
 
-Fully Optional:
-- Farside (ability to render further than specified server render distance)
+Fully Optional (but still included):
 - Replay Mod
 - Iris (shaders) (can be paired with sodium!)
 
 ~~~
-Reccomended Total, 19 mods:
-- 9 Server & Clientside (+4 TBD)
-- 10 Clientside
-- 3 Clientside Optional
-Bare Minimum Total: 9 mods
-MAX TOTAL: 22 MODS +4 TBD
-all this is wrong lol this just a placeholder
+MAX TOTAL: 26 MODS 
+Reccomended Total: 24 mods
+Bare Minimum Total: 16 mods
+- Prerequisites and APIs: 7
+- Server Side: 9
+- Client Side: 8
+- Optional: 2
 ```
+
+In the future, we plan to add a classic dimension mod to the server so stay tuned!
+
+"Your diamond sword will be the diamond sword that will pierce the heavens!"
