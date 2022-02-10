@@ -10,12 +10,12 @@ NoodleShopModdedSurvival.modded.fun
 1. Run Minecraft 1.18.1 at least once.
    - After this step, make sure your Minecraft game and your launcher is closed.
 3. Download [Fabric](https://fabricmc.net/use/installer/) (click the big blue button) and run the installer. 
-4. Download the modpack `.zip` file.
-   - All mods listed below are included in the `.zip` file. There's no virus i promis :)
+4. Download the mods by clicking the green "Code" button above and download as zip.
+   - All mods listed below are included in the file. There's no virus i promis :)
    - Take note where you keep the `.zip` file. It's easiest to save it on your desktop.
 5. Press your `Win` key (or do `Ctrl + R`) and type in "%appdata%" without parenthesis. Press enter.
 6. Navigate to `.minecraft > mods` and unpack the `.zip` file there. 
-   - To do this, open the `.zip` and simply drag and drop the contents into the `mods` folder. 
+   - To do this, open the `.zip`, navigate into the NSMS folder and simply drag and drop the contents into the `mods` folder. 
 7. All set! Now open your launcher, make sure the Fabric loader is selected in the bottom-left corner, slap in our fancy server address, and yer done!
    - Don't worry if you get a scawry pop up! Everything is working as intended. 
 
