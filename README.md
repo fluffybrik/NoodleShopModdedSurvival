@@ -3,8 +3,6 @@ This repository includes everything you need to play on the Minecraft server.
 
 About NSMS: NSMS is a modded server which uses Fabric. We aim to keep your Minecraft client fairly stable and easy to run to support a wide variety of system specs.
 
-NoodleShopModdedSurvival.modded.fun
-
 ## First time setup:
 
 1. Run Minecraft 1.18.1 at least once.
